@@ -5,7 +5,7 @@ Code is sectioned into systems that can be reused in other projects.
 Systems can be found in the scripts folder and they include :
 
 ## DraggableSystem 
-asily drag and drop ui elements and also dr
+Easily drag and drop ui elements and also dr
 
 ## ListManagerSystem 
 Easiy create lists of UI elements, instead of always instatiaing children when you intend to create a list. It supports a standard list with a parent and children as well as a list where the items also have child items. Good examples can be found with the inventory loadout and inventory list. Supports reusablity, used everywhere a list of ui elemtents needs to be generated. It also supports knowing everything about the list, when children are destroyed, count and much more. Can be easily extended based on requirements. 
