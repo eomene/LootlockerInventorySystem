@@ -4,6 +4,23 @@ An inventory system built with SOLID principles in mind. This connects to a back
 Code is sectioned into systems that can be reused in other projects.
 Systems can be found in the scripts folder and they include :
 
+## Installing Lootlocker
+After pulling this project. You will need to install lootlocker from the package manager by following these instructions 
+
+Using GIT
+Before you start, make sure you have git installed on your computer. Open the Unity editor and navigate to the Package Manager by clicking on Window and then Package Manager.
+
+Click on the + at the top of the Package Manager window and select Add package from git URL.
+
+Enter the URL below into the text box and click Add. https://github.com/LootLocker/unity-sdk.git
+
+The SDK is now installed in your project, and you are ready to configure the SDK and make your first API calls.
+
+Using the Entire Repo
+If you do not have git installed on your computer. You can install the SDK by downloading the entire repository and pasting in the packages folder of your project. You can download the entire repo by clicking Code and Download Zip
+
+The SDK is now installed in your project, and you are ready to configure the SDK and make your first API calls.
+
 ## DraggableSystem 
 Easily drag and drop ui elements and also dr
 
